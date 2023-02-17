@@ -1,0 +1,18 @@
+.Header{
+    width: 100vw;
+    height: 45rem;
+    background-color: darkgreen;
+   
+}
+
+.chess{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 35rem;
+}
+
+.titre{
+    text-align: center;
+    color: rgb(31, 29, 29);
+}

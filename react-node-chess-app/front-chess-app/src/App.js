@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>{!data ? "Loading..." : data}</p>
+        <p>{!data ? "attend 2 minutes frère tu forces fils de pute d'elliot..." : data}</p>
       </header>
     </div>
   );
