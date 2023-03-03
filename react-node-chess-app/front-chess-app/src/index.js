@@ -4,11 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from './Composant/Header';
+import { Chess } from 'chess.js';
+import ChessGame from './Composant/chess/chess';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Header />
+    <Chess />
   </React.StrictMode>
 );
 
